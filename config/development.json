@@ -1,0 +1,6 @@
+{
+        "Level" : "development",
+        "PORT": 9999,
+        "MONGOURI": "mongodb://localhost:27017/vegan",
+        "JwtSecret" : "mhd_mhd_mhd"
+}
